@@ -3,10 +3,12 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Username
+name: Borja Godoy
 
 # Short bio or description (displayed in the header)
-description: Programmer From Somewhere On Earth
+description: Frontend develope en S|ngular. En este blog voy a contar con las dificultades que me he encontrado a la hora de 
+aprender Polymer en mi trabajo y hacer una guia que ayude a otras personas a entrar en esta maravillosa librería para el desarrollo
+front.
 
 
 #
@@ -16,18 +18,18 @@ description: Programmer From Somewhere On Earth
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
+  email: Borja.Godoy.Gago@gmail.com
   facebook:
   flickr:
-  github: AkshayAgarwal007
+  github: borjagodoy
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: borja-godoy-a4958371
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: gody11
   stackoverflow: # your stackoverflow profile, e.g. "users/3807565/akshay"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: 118421668812651988547
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -39,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:
+url:http://borjagodoy.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
