@@ -1,11 +1,10 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
-author: Author Name
+title: Empeazando con Polymer
+author: Borja Godoy
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.
-
+![un gatito]({{ site.baseurl }}/images/avatar.jpg)
+Polymer es una tocadura de huevos cuando empiezas, tienes lagunas por todos lados
 ## The Eternal Lorem Ipsum!!!
 
 ```js
