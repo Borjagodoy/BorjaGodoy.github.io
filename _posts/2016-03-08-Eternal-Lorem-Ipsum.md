@@ -11,6 +11,7 @@ Polymer es una tocadura de huevos cuando empiezas, tienes lagunas por todos lado
   var user = user;
 ```
 -----
+![un gatito]({{ site.baseurl }}/images/avatar.jpg)
 
 Lorem!!!!!! ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
